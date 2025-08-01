@@ -11,7 +11,6 @@
 - 👩‍💻 Técnico junior en desarrollo web con conocimientos en HTML, CSS y bases de datos.  
 - 🍽️ Experiencia en atención al cliente y organización de eventos.  
 - 🚀 Apasionada por aprender cosas nuevas y crecer profesionalmente.  
-- 💼 Actualmente trabajando en Batzoki Zornotza y estudiando desarrollo web.
 
 <br><br>
 
@@ -67,5 +66,3 @@
 
 ---
 
-_Crédito del diseño base: [0xabdulkhalid](https://github.com/0xabdulkhalid)_  
-_Última edición: Agosto 2025_
