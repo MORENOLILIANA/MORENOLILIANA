@@ -38,7 +38,6 @@
 <br>
 
 - **Otros**:  
-  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
@@ -47,16 +46,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub</b>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU-USUARIO&layout=compact&theme=radical" width="375"/>
-</div>
-
-<br>
-
----
 
 ## <b> ¡Conectemos!</b> 🤝
 
@@ -66,12 +55,6 @@
 <li>
 <a href="mailto:moreno.liliana@outlook.es" target="_blank">
 <img src="https://img.shields.io/badge/Email:  Liliana Moreno-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</li>
-
-<li>
-<a href="https://linkedin.com/in/tu-linkedin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn:  Liliana Moreno-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
