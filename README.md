@@ -46,6 +46,30 @@
 ---
 
 
+## 🚀 Proyectos Destacados
+
+### 🧩 [TuPieza3D](https://github.com/MORENOLILIANA/TuPieza3D.git)
+**Proyecto individual**  
+**Tecnologías:** HTML, CSS, JavaScript  
+Web orientada a la impresión 3D, donde el usuario puede consultar, solicitar información y ver ejemplos de piezas personalizadas.
+
+---
+
+### 🎬 [Cartelera](https://github.com/MORENOLILIANA/Cartelera.git)
+**Proyecto grupal**  
+**Tecnologías:** HTML, CSS, JavaScript  
+Simulación de una cartelera de cine con películas, horarios y sistema de selección.
+
+---
+
+### 🛍️ [Escaparate](https://github.com/MORENOLILIANA/Escaparate.git)
+**Proyecto grupal**  
+**Tecnologías:** HTML, CSS, JavaScript  
+Escaparate virtual para mostrar productos de tienda, con organización por categorías y detalles de cada artículo.
+
+---
+
+
 ## <b> ¡Conectemos!</b> 🤝
 
 <div align='left'>
