@@ -1,5 +1,4 @@
-<h1 align="center"><b>Hola, soy Liliana <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4a764c77-bde7-459b-8203-8c84cf472715" />
-👩‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Liliana </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://github.com/tu-usuario">
